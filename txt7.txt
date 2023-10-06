@@ -1,0 +1,2 @@
+I created this txt in remote but i will add it to new branch "patch-1"
+Note : from txt 1 to txt 6 it's all about see update in server and sent local updates to server 

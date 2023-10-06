@@ -1,0 +1,4 @@
+I created this file on local 
+when i write command ( git pull origin main ) it shows me i'm already up to date
+but when i write (git pull origin RanaFoura-patch-1) it's like i'm asking the update in RanaFoura-patch-1 Branch 
+and it clone txt7 to my local

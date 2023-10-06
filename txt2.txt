@@ -1,0 +1,9 @@
+this is text number 2 created in remote  ( created this on main branch )
+
+previos steps :
+- create repository on web app
+- git clone 
+- create txt1 file
+- git add .
+- git commit -m "initial commit"
+- git push -u origin main

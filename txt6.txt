@@ -8,3 +8,8 @@ i used this code to add this file from local to remote
 git add . 
 git commit -m "Second commit"
 git push -u origin main )
+
+(i edit this file in local and i used in previos step to show changes from remote to local 
+git pull origin main 
+
+and i will add the change in same way i said before)

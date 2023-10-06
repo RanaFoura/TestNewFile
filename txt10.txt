@@ -1,0 +1,5 @@
+(Remote , Patch-2)
+
+This is merging test ( i may not merge because there is nothing in common between them , 
+if it didn't work i will create txt11 in patch-3 and pull it to local then push again to patch3 branch then there will be some file in common and try again
+if merge work i will try this way also)

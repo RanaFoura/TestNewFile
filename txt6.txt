@@ -3,3 +3,8 @@ i created this frile from local
 i used this command to update my local to remote updated version 
 "git pull origin main"
 
+( this part updated on remote , 
+i used this code to add this file from local to remote 
+git add . 
+git commit -m "Second commit"
+git push -u origin main )
